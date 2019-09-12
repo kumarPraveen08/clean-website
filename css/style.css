@@ -128,7 +128,7 @@ h2 {
     font-size: 3rem;
 }
 
-p {
+p, a {
     font-family: 'Roboto Mono',
         monospace;
     font-size: 14px;
